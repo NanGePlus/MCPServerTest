@@ -104,7 +104,7 @@ https://gitee.com/NanGePlus/MCPServerTest
 ## 3.4 安装项目依赖                            
 新建命令行终端，在终端中运行如下指令进行安装         
 pip install mcp==1.6.0                     
-requests==2.32.3                                                                          
+pip install requests==2.32.3                                                                          
 **注意:** 截止2025.04.25mcp最新版本为1.6.0，建议先使用要求的对应版本进行本项目测试，避免因版本升级造成的代码不兼容。测试通过后，可进行升级测试                      
      
 
