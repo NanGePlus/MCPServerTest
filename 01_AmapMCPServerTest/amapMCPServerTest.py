@@ -16,7 +16,7 @@ server_params = StdioServerParameters(
     # 启动命令的附加参数，这里是运行 example_server.py
     args=["-y", "@amap/amap-maps-mcp-server"],
     # 环境变量，默认为 None，表示使用当前环境变量
-    env={"AMAP_MAPS_API_KEY": "608530313a6cd49be86a4505d9cefa25"}
+    env={"AMAP_MAPS_API_KEY": "608530313a6cd29be86a45o5d9cefa25"}
 )
 
 
