@@ -1,6 +1,6 @@
 # 1、项目介绍                  
 ## 1.1、主要内容                                     
-自定义实现MCP Server及如何使用高德地图MCP Server                      
+如何使用高德地图MCP Server                      
 
 ## 1.2 MCP介绍                              
 MCP(Model Context Protocol 模型上下文协议)是Claude开源的一种开放协议，可实现LLM应用程序与外部数据源和工具之间的无缝集成                                      
@@ -12,10 +12,7 @@ PythonSDK的github地址:https://github.com/modelcontextprotocol/python-sdk
 https://www.bilibili.com/video/BV1HBquYbE7t/                                  
 https://youtu.be/Jmo7rgb_OXQ                            
 
-## 1.3 自定义实现MCP Server
-实现一个支持加、减、乘、除计算的MCP Server的demo用例                      
-
-## 1.4 高德地图 MCP Server 
+## 1.3 高德地图 MCP Server 
 为实现 LBS 服务与 LLM 更好的交互，高德地图 MCP Server 现已覆盖12大核心服务接口，提供全场景覆盖的地图服务                
 包括地理编码、逆地理编码、IP 定位、天气查询、骑行路径规划、步行路径规划、驾车路径规划、公交路径规划、距离测量、关键词搜索、周边搜索、详情搜索等                 
 链接地址:https://lbs.amap.com/api/mcp-server/summary              
@@ -113,8 +110,7 @@ requests==2.32.3
 
 # 4、功能测试
 ## 4.1 MCP服务功能接口测试            
-首先需要下载并安装node的环境，直接下载 https://nodejs.org/zh-cn 安装包进行安装即可                   
-进入到01_AmapMCPServerTest/calculatorMCPServerTest.py运行脚本进行服务接口的单独验证测试              
+首先需要下载并安装node的环境，直接下载 https://nodejs.org/zh-cn 安装包进行安装即可                        
 进入到01_AmapMCPServerTest/amapMCPServerTest.py运行脚本进行服务接口的单独验证测试              
 
 ## 4.2 MCP Client测试   
