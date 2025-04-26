@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "calculator": {
+      "command": "python",
+      "args": ["calculatorMcpServer.py"],
+      "env": null
+    },
+    "amap-maps": {
+      "command": "npx",
+      "args": ["-y", "@amap/amap-maps-mcp-server"],
+      "env": {
+        "AMAP_MAPS_API_KEY": "608530313a6cd49be86a4505d9cefa25"
+      }
+    }
+  }
+}
