@@ -8,7 +8,8 @@ https://www.bilibili.com/video/BV187LozwEY7/
 对应的文件夹:01_AmapMCPServerTest            
 
 【大模型应用开发-MCP系列】02 自定义MCP Server 并同时使用多个MCP Server全流程实操演示 高德地图、自定义四则运算 MCP Server            
-https://youtu.be/JOcPR237tmM                      
+https://youtu.be/JOcPR237tmM                   
+https://www.bilibili.com/video/BV1NXLUzKE1j/            
 对应的文件夹:02_CalculatorMCPServerTest                     
 
 
