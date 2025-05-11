@@ -47,7 +47,7 @@ JSON-RPC 2.0是一种轻量级的、用于远程过程调用（RPC）的消息�
 **注意:** 它不是一个底层通信协议，只是一个应用层的消息格式标准                                              
 这种消息协议的好处，语言无关(还有语言不支持JSON吗)、简单易用(结构简单，天然可读，易于调试)、轻量灵活(可以适配各种传输方式)            
 
-## 2.2 传输协议:STDIO模式、基于SSE的Remote模式
+## 2.2 传输协议:STDIO模式、基于SSE的Remote模式、Streamable HTTP             
 ### 2.2.1 STDIO模式                  
 STDIO(Standard Input/Output)是一种基于标准输入(stdin)和标准输出(stdout)的本地通信方式                 
 MCP Client启动一个子进程(MCP Server)并通过stdin和stdout交换JSON-RPC消息来实现通信          
