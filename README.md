@@ -12,6 +12,9 @@ https://youtu.be/JOcPR237tmM
 https://www.bilibili.com/video/BV1NXLUzKE1j/            
 对应的文件夹:02_CalculatorMCPServerTest                     
 
+【大模型应用开发-MCP系列】03 为什么会出现MCP？MCP新标准(03.26版)3种传输模式,STDIO、HTTP+SSE、Streamable HTTP          
+https://youtu.be/EId3Kbmb_Ao           
+
 
 # 南哥AGI研习社-入门系列（已完结）  
 ## 大模型应用技术开发          
