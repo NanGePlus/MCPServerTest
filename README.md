@@ -21,6 +21,11 @@ https://youtu.be/1Z_6eIufr90
 https://www.bilibili.com/video/BV1Td79z4Ehf/               
 对应的文件夹:03_MySQLMCPServerTest/01_stdioTransportTest                        
 
+【大模型应用开发-MCP系列】05 使用HTTP+SSE传输模式及底层MCP SDK实现MySQL MCP Server 支持数据表资源访问和增删改查及联表查询             
+https://youtu.be/QRlHRoBTHvc                  
+https://www.bilibili.com/video/BV1Td79z4Ehf/                  
+对应的文件夹:03_MySQLMCPServerTest/02_sseTransportTest                 
+
 
 # 南哥AGI研习社-入门系列（已完结）  
 ## 大模型应用技术开发          
