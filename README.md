@@ -26,6 +26,11 @@ https://youtu.be/QRlHRoBTHvc
 https://www.bilibili.com/video/BV1yeEwzkEaC/                    
 对应的文件夹:03_MySQLMCPServerTest/02_sseTransportTest                  
 
+【大模型应用开发-MCP系列】06 使用Streamable HTTP传输模式及底层MCP SDK实现MySQL MCP Server 支持数据表资源访问和增删改查及联表查询             
+https://youtu.be/mSgFtBN68RA                                 
+https://www.bilibili.com/video/BV1cMEBzTEFD/                                    
+对应的文件夹:03_MySQLMCPServerTest/03_streamableTransportTest                
+
 
 # 南哥AGI研习社-入门系列（已完结）  
 ## 大模型应用技术开发          
