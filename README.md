@@ -33,7 +33,7 @@ https://www.bilibili.com/video/BV1cMEBzTEFD/
 
 【大模型应用开发-MCP系列】07 高德地图MCP Server SSE+HTTP连接模式全流程实操演示 已覆盖12大核心服务接口，提供全场景覆盖的地图服务            
 https://youtu.be/OLVHObhEP0U        
-
+https://www.bilibili.com/video/BV172E1zWEQw/                
 
 
 # 南哥AGI研习社-入门系列（已完结）  
